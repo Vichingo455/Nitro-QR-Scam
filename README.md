@@ -8,7 +8,7 @@ Discord Nitro QR Scam hacking Discord account and bypassing 2FA authentication.
 4. The hacker gets access to the user's account
 
 ## How to use it
-1. Open `pip_req_inst.exe` ad Administrator (reccommended)
+1. Open `pip_req_inst.exe` as Administrator (reccommended)
 2. Install Google Chrome opening the file `ChromeStableSetup.exe` (if you haven't done it in past)
 3. Open `run_script.bat`
 4. Send the file `discord_gift.png` to anyone
