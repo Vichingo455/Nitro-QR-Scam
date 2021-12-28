@@ -1,6 +1,8 @@
 # Discord Nitro QR code Scam
 Discord Nitro QR Scam hacking Discord account and bypassing 2FA authentication.
 
+**DISCLAIMER: THIS IS ONLY FOR EDUCATIONAL PURPOUSES ONLY**
+
 ## How it works
 1. An hacker executes the `QR_Generator.py` file with Python
 2. The hacker sends the QR code to a user and asks they to scan it with the Discord mobile app
